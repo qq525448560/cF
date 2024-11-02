@@ -44,7 +44,7 @@ let vmessLinksURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main
 let proxyhosts = [//本地代理域名池
 	//'ppfv2tl9veojd-maillazy.pages.dev',
 ];
-let proxyhostsURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/proxyhosts';//在线代理域名池URL
+let proxyhostsURL = 'https://raw.githubusercontent.com/qq525448560/cF/c07e8997a66469989b75cf74154d7c0de2e9d81c/proxyhosts?token=GHSAT0AAAAAACZ3RLSGUN2JQYLDHCGQJNBYZZFSQTQ';//在线代理域名池URL
 let FileName = 'CFcdnVmess2sub';
 let SUBUpdateTime = 6; 
 let total = 99;//PB
