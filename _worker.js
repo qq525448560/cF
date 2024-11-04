@@ -6,21 +6,12 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'cf.090227.xyz:443#官方优选域名',
-	'cmcc.090227.xyz:443#大佬官方线路',
-	'ct.090227.xyz:443#优选官方线路',
-	'ct.090227.xyz:443#优选官方线路',
-	'ct.090227.xyz:443#优选官方线路',
-	'ct.090227.xyz:443#优选官方线路',
-	
+	'cf.090227.xyz#官方优选域名','https://addressesapi.090227.xyz/ip.164746.xyz#官方优选域名',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/qq525448560/cF/refs/heads/main/addressesapi.txt', 
-	'https://addressesapi.090227.xyz/ip.164746.xyz',
-	'https://addressesapi.090227.xyz/CloudFlareYes',
-	'https://cf.090227.xyz/dns-query',
 
 	
 	
